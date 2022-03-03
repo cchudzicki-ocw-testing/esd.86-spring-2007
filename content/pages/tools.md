@@ -7,7 +7,7 @@ title: Tools
 uid: 57208e81-2172-38ef-78d6-1bc4e00fb251
 ---
 
-Derivation of F dist ({{< resource_link 025b6f8a-95ea-f9fb-cd24-62fa28249890 "PDF" >}})
+Derivation of F dist ({{% resource_link 025b6f8a-95ea-f9fb-cd24-62fa28249890 "PDF" %}})
 
 MATLAB® Files
 -------------
@@ -73,7 +73,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Normal probability tool ({{< resource_link bfd81bf0-9c6a-9eda-36fc-d982dfeed6c1 "XLS" >}})
+Normal probability tool ({{% resource_link bfd81bf0-9c6a-9eda-36fc-d982dfeed6c1 "XLS" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Creates normally distributed samples and makes normal probability plots
@@ -82,7 +82,7 @@ Creates normally distributed samples and makes normal probability plots
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Recreating Weibull's plot for Bofors steel ({{< resource_link c8ac6125-0ae9-6509-ee40-a2da81dae2c6 "XLS" >}})
+Recreating Weibull's plot for Bofors steel ({{% resource_link c8ac6125-0ae9-6509-ee40-a2da81dae2c6 "XLS" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Attempt to recreate Figure 1 in Weibull, Waloddi. "A Statistical Distribution Function of Wide Applicability." _Journal of Applied Mechanics_ 18, no. 3 (1951): 293-297.
