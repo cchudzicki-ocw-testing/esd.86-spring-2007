@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Recitations
 uid: bdb3a418-64df-1234-9372-0fbfe7d99544
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Recitation 1 ({{% resource_link a8fb567d-24ff-cf75-0211-613a8639701d "PDF" %}})

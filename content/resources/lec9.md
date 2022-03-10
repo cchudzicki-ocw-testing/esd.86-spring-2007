@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec9.pdf
 uid: 6f188063-c705-1ea9-4c5d-b10683665f21
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

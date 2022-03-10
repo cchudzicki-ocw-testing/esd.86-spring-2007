@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: normal_prob.xls
 uid: bfd81bf0-9c6a-9eda-36fc-d982dfeed6c1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec1_intro.pdf
 uid: 2ebe1064-0733-9f82-b451-d497f44c9098
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

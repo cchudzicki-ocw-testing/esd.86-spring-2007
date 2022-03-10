@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: exam2_review.pdf
 uid: c26e72a4-1029-637b-1058-b6b18dc30e54
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

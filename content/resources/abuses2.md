@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: abuses2.pdf
 uid: 579abd23-523f-7740-ae57-8da5864a254b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

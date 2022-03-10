@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: rec6.pdf
 uid: 71fd917c-457e-0fe9-7cdd-c02831a33829
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

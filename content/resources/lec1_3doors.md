@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec1_3doors.pdf
 uid: 8dd2aa2c-0c3e-c45a-d153-d5efeb68097f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

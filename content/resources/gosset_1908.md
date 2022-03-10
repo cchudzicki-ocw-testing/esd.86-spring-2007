@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: gosset_1908.pdf
 uid: 1dabbcb2-c2fa-46e6-7fb3-655a35ec11fc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

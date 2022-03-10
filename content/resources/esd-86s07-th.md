@@ -14,4 +14,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: esd-86s07-th.jpg
 uid: 02269d0b-9c57-1d9d-b961-40d502d30986
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

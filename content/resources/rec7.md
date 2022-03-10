@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: rec7.pdf
 uid: 3f91d73d-02b2-00f2-b19a-da0b3bcfe528
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

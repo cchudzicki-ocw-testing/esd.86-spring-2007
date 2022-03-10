@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: exam2_practice.pdf
 uid: 71393387-a10e-36dc-32c5-10f5a7f250f6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

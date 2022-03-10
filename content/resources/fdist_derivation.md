@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: fdist_derivation.pdf
 uid: 025b6f8a-95ea-f9fb-cd24-62fa28249890
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

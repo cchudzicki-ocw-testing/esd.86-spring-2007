@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec11.pdf
 uid: e9aeca9e-442b-bdf6-bb98-cf3a5addb2fa
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

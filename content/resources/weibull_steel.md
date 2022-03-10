@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: weibull_steel.xls
 uid: c8ac6125-0ae9-6509-ee40-a2da81dae2c6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

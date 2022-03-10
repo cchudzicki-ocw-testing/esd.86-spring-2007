@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 7c33bcf1-cdaa-ce25-416c-410a3e692ba1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents the homework assignments, plus some winners of the weekly contest for "worst use, misuse or abuse of statistics and probabilistic reasoning in the media."

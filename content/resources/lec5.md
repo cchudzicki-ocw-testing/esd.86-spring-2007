@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec5.pdf
 uid: 1a54fef4-89a7-2a6f-19f6-4f10cabbff4a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
