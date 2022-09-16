@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section presents the homework assignments, plus some winners of
+  the weekly contest for "worst use, misuse or abuse of statistics and probabilistic
+  reasoning in the media."
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

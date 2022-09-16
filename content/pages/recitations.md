@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains recitation notes for the course.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection

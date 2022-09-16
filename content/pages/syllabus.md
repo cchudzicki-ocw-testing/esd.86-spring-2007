@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course description and information about course
+  objectives, prerequisites, class sessions, textbooks, weekly contest, term project,
+  software, a note on submission of work, late policy, time commitment, grading, and
+  a calendar of lecture sessions and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

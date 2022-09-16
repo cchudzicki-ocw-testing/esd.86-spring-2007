@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information on course exams, including a review,
+  practice problems, and a copy of Exam #2 for the course.'
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
